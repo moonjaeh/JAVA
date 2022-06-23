@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Day02.Calculator"/>
+    <fullyQualifiedTypeName name="Day03.Earth"/>
+    <fullyQualifiedTypeName name="Day03.com.test.test"/>
+    <fullyQualifiedTypeName name="Day04.Tv"/>
+    <fullyQualifiedTypeName name="Day04.Calculator"/>
+    <fullyQualifiedTypeName name="Day04.CalMinus"/>
+    <fullyQualifiedTypeName name="Day04.SportsCar"/>
+    <fullyQualifiedTypeName name="Day04.Phone"/>
+    <fullyQualifiedTypeName name="Day04.SmartPhone"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="Day05.FreeBoard"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="Day01._04_systemInOut"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+</qualifiedTypeNameHistroy>
